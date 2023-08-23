@@ -41,6 +41,9 @@ footer {
 .creative {
   color: darkblue;
 }
+h1 {
+  width: 60%;
+}
 
 
 /*--------------------------*/
@@ -65,5 +68,8 @@ footer {
   }
   .card > p, .card > h2 {
     text-align: justify;
+  }
+  h1{
+    width: 100%;
   }
 }
