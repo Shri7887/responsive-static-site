@@ -56,9 +56,9 @@ h1 {
   }
   .card{
     display: block;
-    width: 80%;
+    width: 90%;
     position: relative;
-    left: 10%;
+    left: 5%;
   }
   .left, .right {
     float: none;
